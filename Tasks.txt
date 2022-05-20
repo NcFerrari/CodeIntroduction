@@ -1,0 +1,12 @@
+Work Introduction Code (version 1)
+WIC001 - Create simple maven project
+	- Set pom
+	- ReadMe File with a basic introduction
+	- .ignore file
+WIC002 - Project architecture
+	- Manager class (first version = URL to PDF only. URL and file destination are inputs as parameters in manager (main) class)
+	- Document type enum
+	- processing package
+	- PDF creator class
+WIC003 - Convert URL to PDF
+	
